@@ -1,0 +1,125 @@
+name,category_id,sub_category_id,sub_sub_category_id,brand_id,unit,minimum_order_qty,refundable,youtube_video_url,unit_price,purchase_price,tax,discount,discount_type,current_stock,details,thumbnail
+"Kitchen Pan",3,,,1,kg,2,1,,3000,3000,0,0,flat,10,"Upgrade your kitchen essentials with this high-performance frying pan designed for everyday cooking. Crafted from durable, heat-conductive materials, it ensures even heat distribution for perfectly cooked meals every time. The non-stick surface allows for effortless food release and easy cleanup, while the ergonomic handle provides a secure, comfortable grip. Suitable for a variety of stovetops, this versatile pan is ideal for frying, saut&eacute;ing, and searing your favorite dishes.",2026-04-23-69ea0b40b8a7b.webp
+"Table Top Gas Cooker (2 Burners)",4,5,,,pc,1,1,,614,461,0,0,flat,100,"Detailed description for Table Top Gas Cooker (2 Burners)",def.png
+"Standing Gas Cooker (4 Burners)",4,5,,,pc,1,1,,677,454,0,0,flat,100,"Detailed description for Standing Gas Cooker (4 Burners)",def.png
+"Standing Gas Cooker (6 Burners)",4,5,,,pc,1,1,,485,325,0,0,flat,100,"Detailed description for Standing Gas Cooker (6 Burners)",def.png
+"Industrial Gas Cooker (4 Burners)",4,5,,,pc,1,1,,903,695,0,0,flat,100,"Detailed description for Industrial Gas Cooker (4 Burners)",def.png
+"Industrial Gas Cooker (6 Burners)",4,5,,,pc,1,1,,702,428,0,0,flat,100,"Detailed description for Industrial Gas Cooker (6 Burners)",def.png
+"Industrial Gas Cooker with Oven (4 Burners)",4,5,,,pc,1,1,,960,730,0,0,flat,100,"Detailed description for Industrial Gas Cooker with Oven (4 Burners)",def.png
+"Industrial Gas Cooker with Oven (6 Burners)",4,5,,,pc,1,1,,404,246,0,0,flat,100,"Detailed description for Industrial Gas Cooker with Oven (6 Burners)",def.png
+"Table Top Deep Fryer (Single Basket)",4,6,,,pc,1,1,,987,661,0,0,flat,100,"Detailed description for Table Top Deep Fryer (Single Basket)",def.png
+"Table Top Deep Fryer (Double Basket)",4,6,,,pc,1,1,,602,385,0,0,flat,100,"Detailed description for Table Top Deep Fryer (Double Basket)",def.png
+"Standing Deep Fryer (Single Basket)",4,6,,,pc,1,1,,523,382,0,0,flat,100,"Detailed description for Standing Deep Fryer (Single Basket)",def.png
+"Standing Deep Fryer (Double Basket)",4,6,,,pc,1,1,,807,525,0,0,flat,100,"Detailed description for Standing Deep Fryer (Double Basket)",def.png
+"Industrial Pressure Fryer",4,6,,,pc,1,1,,446,285,0,0,flat,100,"Detailed description for Industrial Pressure Fryer",def.png
+"Electric Baking Oven (1 Deck, 2 Trays)",20,22,,,pc,1,1,,255,201,0,0,flat,100,"Detailed description for Electric Baking Oven (1 Deck, 2 Trays)",def.png
+"Electric Baking Oven (2 Decks, 4 Trays)",20,22,,,pc,1,1,,982,638,0,0,flat,100,"Detailed description for Electric Baking Oven (2 Decks, 4 Trays)",def.png
+"Electric Baking Oven (3 Decks, 6 Trays)",20,22,,,pc,1,1,,136,103,0,0,flat,100,"Detailed description for Electric Baking Oven (3 Decks, 6 Trays)",def.png
+"Gas Baking Oven (1 Deck, 2 Trays)",20,22,,,pc,1,1,,335,238,0,0,flat,100,"Detailed description for Gas Baking Oven (1 Deck, 2 Trays)",def.png
+"Gas Baking Oven (2 Decks, 4 Trays)",20,22,,,pc,1,1,,299,233,0,0,flat,100,"Detailed description for Gas Baking Oven (2 Decks, 4 Trays)",def.png
+"Gas Baking Oven (3 Decks, 6 Trays)",20,22,,,pc,1,1,,739,591,0,0,flat,100,"Detailed description for Gas Baking Oven (3 Decks, 6 Trays)",def.png
+"Convection Oven (4 Trays)",4,7,,,pc,1,1,,335,214,0,0,flat,100,"Detailed description for Convection Oven (4 Trays)",def.png
+"Convection Oven (8 Trays)",4,7,,,pc,1,1,,646,472,0,0,flat,100,"Detailed description for Convection Oven (8 Trays)",def.png
+"Rotary Oven (16 Trays)",4,7,,,pc,1,1,,196,135,0,0,flat,100,"Detailed description for Rotary Oven (16 Trays)",def.png
+"Upright Chiller (1 Door)",8,9,,,pc,1,1,,555,444,0,0,flat,100,"Detailed description for Upright Chiller (1 Door)",def.png
+"Upright Chiller (2 Doors)",8,9,,,pc,1,1,,223,169,0,0,flat,100,"Detailed description for Upright Chiller (2 Doors)",def.png
+"Upright Chiller (3 Doors)",8,9,,,pc,1,1,,920,561,0,0,flat,100,"Detailed description for Upright Chiller (3 Doors)",def.png
+"Under Counter Chiller (2 Doors)",8,9,,,pc,1,1,,738,524,0,0,flat,100,"Detailed description for Under Counter Chiller (2 Doors)",def.png
+"Under Counter Chiller (3 Doors)",8,9,,,pc,1,1,,788,559,0,0,flat,100,"Detailed description for Under Counter Chiller (3 Doors)",def.png
+"Chest Freezer (300L)",8,10,,,pc,1,1,,197,152,0,0,flat,100,"Detailed description for Chest Freezer (300L)",def.png
+"Chest Freezer (500L)",8,10,,,pc,1,1,,835,568,0,0,flat,100,"Detailed description for Chest Freezer (500L)",def.png
+"Upright Freezer (1 Door)",8,10,,,pc,1,1,,660,409,0,0,flat,100,"Detailed description for Upright Freezer (1 Door)",def.png
+"Upright Freezer (2 Doors)",8,10,,,pc,1,1,,352,229,0,0,flat,100,"Detailed description for Upright Freezer (2 Doors)",def.png
+"Upright Freezer (3 Doors)",8,10,,,pc,1,1,,777,497,0,0,flat,100,"Detailed description for Upright Freezer (3 Doors)",def.png
+"Cake Display Fridge (1.2m)",8,11,,,pc,1,1,,224,159,0,0,flat,100,"Detailed description for Cake Display Fridge (1.2m)",def.png
+"Cake Display Fridge (1.5m)",8,11,,,pc,1,1,,672,450,0,0,flat,100,"Detailed description for Cake Display Fridge (1.5m)",def.png
+"Supermarket Open Chiller (2m)",8,11,,,pc,1,1,,977,752,0,0,flat,100,"Detailed description for Supermarket Open Chiller (2m)",def.png
+"Supermarket Open Chiller (3m)",8,11,,,pc,1,1,,564,350,0,0,flat,100,"Detailed description for Supermarket Open Chiller (3m)",def.png
+"Planetary Mixer (10L)",12,13,,,pc,1,1,,814,513,0,0,flat,100,"Detailed description for Planetary Mixer (10L)",def.png
+"Planetary Mixer (20L)",12,13,,,pc,1,1,,620,465,0,0,flat,100,"Detailed description for Planetary Mixer (20L)",def.png
+"Planetary Mixer (30L)",12,13,,,pc,1,1,,198,129,0,0,flat,100,"Detailed description for Planetary Mixer (30L)",def.png
+"Spiral Mixer (20L)",20,21,,,pc,1,1,,700,511,0,0,flat,100,"Detailed description for Spiral Mixer (20L)",def.png
+"Spiral Mixer (30L)",20,21,,,pc,1,1,,682,539,0,0,flat,100,"Detailed description for Spiral Mixer (30L)",def.png
+"Spiral Mixer (50L)",20,21,,,pc,1,1,,877,579,0,0,flat,100,"Detailed description for Spiral Mixer (50L)",def.png
+"Meat Slicer (8 inch)",12,14,,,pc,1,1,,967,716,0,0,flat,100,"Detailed description for Meat Slicer (8 inch)",def.png
+"Meat Slicer (10 inch)",12,14,,,pc,1,1,,755,566,0,0,flat,100,"Detailed description for Meat Slicer (10 inch)",def.png
+"Meat Slicer (12 inch)",12,14,,,pc,1,1,,453,299,0,0,flat,100,"Detailed description for Meat Slicer (12 inch)",def.png
+"Bread Slicer (31 Blades)",12,14,,,pc,1,1,,462,360,0,0,flat,100,"Detailed description for Bread Slicer (31 Blades)",def.png
+"Bread Slicer (39 Blades)",12,14,,,pc,1,1,,948,683,0,0,flat,100,"Detailed description for Bread Slicer (39 Blades)",def.png
+"Commercial Blender (2L)",12,15,,,pc,1,1,,266,160,0,0,flat,100,"Detailed description for Commercial Blender (2L)",def.png
+"Commercial Blender (3L)",12,15,,,pc,1,1,,230,145,0,0,flat,100,"Detailed description for Commercial Blender (3L)",def.png
+"Heavy Duty Blender (2L)",12,15,,,pc,1,1,,989,732,0,0,flat,100,"Detailed description for Heavy Duty Blender (2L)",def.png
+"Stainless Steel Work Table (1.2m)",16,17,,,pc,1,1,,391,313,0,0,flat,100,"Detailed description for Stainless Steel Work Table (1.2m)",def.png
+"Stainless Steel Work Table (1.5m)",16,17,,,pc,1,1,,689,489,0,0,flat,100,"Detailed description for Stainless Steel Work Table (1.5m)",def.png
+"Stainless Steel Work Table (1.8m)",16,17,,,pc,1,1,,896,618,0,0,flat,100,"Detailed description for Stainless Steel Work Table (1.8m)",def.png
+"Stainless Steel Work Table with Undershelf (1.2m)",16,17,,,pc,1,1,,614,387,0,0,flat,100,"Detailed description for Stainless Steel Work Table with Undershelf (1.2m)",def.png
+"Stainless Steel Work Table with Undershelf (1.5m)",16,17,,,pc,1,1,,174,104,0,0,flat,100,"Detailed description for Stainless Steel Work Table with Undershelf (1.5m)",def.png
+"Single Bowl Sink (Stainless Steel)",16,18,,,pc,1,1,,806,500,0,0,flat,100,"Detailed description for Single Bowl Sink (Stainless Steel)",def.png
+"Double Bowl Sink (Stainless Steel)",16,18,,,pc,1,1,,991,624,0,0,flat,100,"Detailed description for Double Bowl Sink (Stainless Steel)",def.png
+"Triple Bowl Sink (Stainless Steel)",16,18,,,pc,1,1,,569,381,0,0,flat,100,"Detailed description for Triple Bowl Sink (Stainless Steel)",def.png
+"Hand Wash Sink (Wall Mounted)",16,18,,,pc,1,1,,435,261,0,0,flat,100,"Detailed description for Hand Wash Sink (Wall Mounted)",def.png
+"4-Tier Stainless Steel Rack (1.2m)",16,19,,,pc,1,1,,642,462,0,0,flat,100,"Detailed description for 4-Tier Stainless Steel Rack (1.2m)",def.png
+"4-Tier Stainless Steel Rack (1.5m)",16,19,,,pc,1,1,,126,77,0,0,flat,100,"Detailed description for 4-Tier Stainless Steel Rack (1.5m)",def.png
+"Dunnage Rack (Stainless Steel)",16,19,,,pc,1,1,,521,313,0,0,flat,100,"Detailed description for Dunnage Rack (Stainless Steel)",def.png
+"Ice Maker (50kg/day)",8,10,,,pc,1,1,,802,545,0,0,flat,100,"Detailed description for Ice Maker (50kg/day)",def.png
+"Bain Marie (4 Pans)",4,5,,,pc,1,1,,421,253,0,0,flat,100,"Detailed description for Bain Marie (4 Pans)",def.png
+"Bain Marie (6 Pans)",4,5,,1,pc,1,1,,973,691,0,0,flat,100,"Detailed description for Bain Marie (6 Pans)",def.png
+"Electric Deep Fryer (1 Tank)",4,23,,,pc,1,1,,203,142,0,0,flat,100,"Detailed description for Electric Deep Fryer (1 Tank)",def.png
+"Electric Deep Fryer (2 Tanks)",4,23,,,pc,1,1,,338,220,0,0,flat,100,"Detailed description for Electric Deep Fryer (2 Tanks)",def.png
+"Gas Deep Fryer",4,23,,,pc,1,1,,299,224,0,0,flat,100,"Detailed description for Gas Deep Fryer",def.png
+"Griddle (Half Flat Half Grooved)",4,23,,,pc,1,1,,850,612,0,0,flat,100,"Detailed description for Griddle (Half Flat Half Grooved)",def.png
+"Hamburger Machine",4,23,,,pc,1,1,,460,299,0,0,flat,100,"Detailed description for Hamburger Machine",def.png
+"Hot Dog Roller",4,23,,,pc,1,1,,169,106,0,0,flat,100,"Detailed description for Hot Dog Roller",def.png
+"Bain Marie (4 Pans)",4,23,,,pc,1,1,,214,135,0,0,flat,100,"Detailed description for Bain Marie (4 Pans)",def.png
+"Popcorn Machine",4,23,,,pc,1,1,,561,426,0,0,flat,100,"Detailed description for Popcorn Machine",def.png
+"Candy Floss Machine",4,23,,,pc,1,1,,417,267,0,0,flat,100,"Detailed description for Candy Floss Machine",def.png
+"Shawarma Machine",4,23,,,pc,1,1,,249,157,0,0,flat,100,"Detailed description for Shawarma Machine",def.png
+Salamander,4,23,,,pc,1,1,,504,388,0,0,flat,100,"Detailed description for Salamander",def.png
+"Single Induction Cooker",4,24,,,pc,1,1,,345,207,0,0,flat,100,"Detailed description for Single Induction Cooker",def.png
+"Double Induction Cooker",4,24,,,pc,1,1,,396,309,0,0,flat,100,"Detailed description for Double Induction Cooker",def.png
+"Commercial Rice Cooker (10L)",4,25,,,pc,1,1,,382,298,0,0,flat,100,"Detailed description for Commercial Rice Cooker (10L)",def.png
+"Commercial Rice Cooker (13L)",4,25,,,pc,1,1,,631,398,0,0,flat,100,"Detailed description for Commercial Rice Cooker (13L)",def.png
+"Commercial Rice Cooker (19L)",4,25,,,pc,1,1,,700,476,0,0,flat,100,"Detailed description for Commercial Rice Cooker (19L)",def.png
+"Soft Ice Cream Machine (1 Flavour)",8,26,,,pc,1,1,,949,636,0,0,flat,100,"Detailed description for Soft Ice Cream Machine (1 Flavour)",def.png
+"Soft Ice Cream Machine (3 Flavours)",8,26,,,pc,1,1,,828,662,0,0,flat,100,"Detailed description for Soft Ice Cream Machine (3 Flavours)",def.png
+"Hard Ice Cream Machine",8,26,,,pc,1,1,,437,284,0,0,flat,100,"Detailed description for Hard Ice Cream Machine",def.png
+"Single Pan Fried Ice Cream Machine",8,27,,,pc,1,1,,740,592,0,0,flat,100,"Detailed description for Single Pan Fried Ice Cream Machine",def.png
+"Double Pan Fried Ice Cream Machine",8,27,,,pc,1,1,,799,479,0,0,flat,100,"Detailed description for Double Pan Fried Ice Cream Machine",def.png
+"Ice Maker (20kg)",8,28,,,pc,1,1,,556,445,0,0,flat,100,"Detailed description for Ice Maker (20kg)",def.png
+"Ice Maker (40kg)",8,28,,,pc,1,1,,131,96,0,0,flat,100,"Detailed description for Ice Maker (40kg)",def.png
+"Ice Maker (60kg)",8,28,,,pc,1,1,,529,418,0,0,flat,100,"Detailed description for Ice Maker (60kg)",def.png
+"Ice Maker (90kg)",8,28,,,pc,1,1,,970,766,0,0,flat,100,"Detailed description for Ice Maker (90kg)",def.png
+"Open Chiller (2.0m)",8,29,,,pc,1,1,,436,314,0,0,flat,100,"Detailed description for Open Chiller (2.0m)",def.png
+"Island Freezer (1.5m)",8,29,,,pc,1,1,,764,596,0,0,flat,100,"Detailed description for Island Freezer (1.5m)",def.png
+"Curved Glass Cake Showcase (1.2m)",8,30,,,pc,1,1,,369,269,0,0,flat,100,"Detailed description for Curved Glass Cake Showcase (1.2m)",def.png
+"Square Glass Cake Showcase (1.5m)",8,30,,,pc,1,1,,504,378,0,0,flat,100,"Detailed description for Square Glass Cake Showcase (1.5m)",def.png
+"Single Door Beverage Cooler",8,31,,,pc,1,1,,819,524,0,0,flat,100,"Detailed description for Single Door Beverage Cooler",def.png
+"Double Door Beverage Cooler",8,31,,,pc,1,1,,446,294,0,0,flat,100,"Detailed description for Double Door Beverage Cooler",def.png
+"Potato Peeler (10kg)",12,32,,,pc,1,1,,143,93,0,0,flat,100,"Detailed description for Potato Peeler (10kg)",def.png
+"Potato Peeler (15kg)",12,32,,,pc,1,1,,491,319,0,0,flat,100,"Detailed description for Potato Peeler (15kg)",def.png
+"Juice Dispenser (Single Bowl)",12,33,,,pc,1,1,,304,234,0,0,flat,100,"Detailed description for Juice Dispenser (Single Bowl)",def.png
+"Juice Dispenser (Double Bowl)",12,33,,,pc,1,1,,278,220,0,0,flat,100,"Detailed description for Juice Dispenser (Double Bowl)",def.png
+"Juice Dispenser (Triple Bowl)",12,33,,,pc,1,1,,294,209,0,0,flat,100,"Detailed description for Juice Dispenser (Triple Bowl)",def.png
+"Single Cereal Dispenser",12,34,,,pc,1,1,,611,385,0,0,flat,100,"Detailed description for Single Cereal Dispenser",def.png
+"Double Cereal Dispenser",12,34,,,pc,1,1,,927,714,0,0,flat,100,"Detailed description for Double Cereal Dispenser",def.png
+"Electric Ice Crusher",12,35,,,pc,1,1,,293,226,0,0,flat,100,"Detailed description for Electric Ice Crusher",def.png
+"Auto Orange Juicer",12,36,,,pc,1,1,,729,445,0,0,flat,100,"Detailed description for Auto Orange Juicer",def.png
+"Milk Shaker (Single)",12,37,,,pc,1,1,,426,302,0,0,flat,100,"Detailed description for Milk Shaker (Single)",def.png
+"Milk Shaker (Double)",12,37,,,pc,1,1,,597,376,0,0,flat,100,"Detailed description for Milk Shaker (Double)",def.png
+"Commercial Coffee Machine",12,37,,,pc,1,1,,751,533,0,0,flat,100,"Detailed description for Commercial Coffee Machine",def.png
+"Hood Type Dish Washer",16,38,,,pc,1,1,,848,568,0,0,flat,100,"Detailed description for Hood Type Dish Washer",def.png
+"Undercounter Dish Washer",16,38,,,pc,1,1,,421,274,0,0,flat,100,"Detailed description for Undercounter Dish Washer",def.png
+"Single Sink Table",16,39,,,pc,1,1,,753,587,0,0,flat,100,"Detailed description for Single Sink Table",def.png
+"Double Sink Table",16,39,,,pc,1,1,,201,139,0,0,flat,100,"Detailed description for Double Sink Table",def.png
+"Service Trolley (3 Tier)",16,40,,,pc,1,1,,288,216,0,0,flat,100,"Detailed description for Service Trolley (3 Tier)",def.png
+"Bakery Trolley (15 Tier)",16,40,,,pc,1,1,,982,727,0,0,flat,100,"Detailed description for Bakery Trolley (15 Tier)",def.png
+"Stainless Steel Dining Cart",16,41,,,pc,1,1,,112,83,0,0,flat,100,"Detailed description for Stainless Steel Dining Cart",def.png
+"Cabinet Working Table (1.2m)",16,42,,,pc,1,1,,495,351,0,0,flat,100,"Detailed description for Cabinet Working Table (1.2m)",def.png
+"Cabinet Working Table (1.5m)",16,42,,,pc,1,1,,614,424,0,0,flat,100,"Detailed description for Cabinet Working Table (1.5m)",def.png
+"Wire Shelving Rack (4 Tier)",16,43,,,pc,1,1,,894,626,0,0,flat,100,"Detailed description for Wire Shelving Rack (4 Tier)",def.png
+"Electric Water Boiler (10L)",44,45,,,pc,1,1,,816,620,0,0,flat,100,"Detailed description for Electric Water Boiler (10L)",def.png
+"Electric Water Boiler (20L)",44,45,,,pc,1,1,,303,194,0,0,flat,100,"Detailed description for Electric Water Boiler (20L)",def.png
+"Round Chafing Dish",44,46,,,pc,1,1,,623,417,0,0,flat,100,"Detailed description for Round Chafing Dish",def.png
+"Rectangular Chafing Dish",44,46,,,pc,1,1,,987,612,0,0,flat,100,"Detailed description for Rectangular Chafing Dish",def.png
+"Impulse Sealer (300mm)",44,47,,,pc,1,1,,139,83,0,0,flat,100,"Detailed description for Impulse Sealer (300mm)",def.png
+"Vacuum Packaging Machine",44,47,,,pc,1,1,,666,400,0,0,flat,100,"Detailed description for Vacuum Packaging Machine",def.png
